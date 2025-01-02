@@ -7,3 +7,6 @@ Different regression models were tested to improve predictive accuracy. These in
 Adding interaction terms between variables.
 Squaring certain features to capture non-linear relationships.
 After testing multiple approaches, Polynomial Regression yielded the highest accuracy, demonstrating its ability to model complex relationships within the data effectively.
+
+Dataset link:
+https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho
